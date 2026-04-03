@@ -61,7 +61,7 @@ sonypsp.vip:18095
 
 ---
 
-## Telegram 官方群
+## Telegram 官方群組
 
 加入群組：`@sonypsp_vip`
 
