@@ -61,6 +61,14 @@ sonypsp.vip:18095
 
 ---
 
+## Telegram 群組
+
+### `@sonypsp_vip`
+
+[https://t.me/sonypsp_vip](https://t.me/sonypsp_vip)
+
+---
+
 ## 使用提示
 
 - 優先使用完整地址 `sonypsp.vip:18095`
