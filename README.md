@@ -61,11 +61,11 @@ sonypsp.vip:18095
 
 ---
 
-## Telegram 群組
+## Telegram 官方群
 
-### `@sonypsp_vip`
+加入群組：`@sonypsp_vip`
 
-[https://t.me/sonypsp_vip](https://t.me/sonypsp_vip)
+[![Join Telegram](https://img.shields.io/badge/Telegram-@sonypsp__vip-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sonypsp_vip)
 
 ---
 
