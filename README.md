@@ -78,17 +78,20 @@
 
 伺服器維護與線路成本一直都不低，如果 `SONYPSP` 幫到你，歡迎透過下方方式支持我們，幫助項目長遠維持運作。
 
-如果這個項目幫到你，歡迎透過下方方式支持我們。
-
 你的支持，會幫助我們持續提供更穩定的服務、維護更好的線路品質，並逐步提供更短域名與更多獨立端口選項。
 
-### 支付寶
-
-![支付寶收款碼](assets/alipay.jpg)
-
-### 微信支付
-
-![微信支付收款碼](assets/wechat-pay.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <strong>支付寶</strong><br />
+      <img src="assets/alipay.jpg" alt="支付寶收款碼" width="260" />
+    </td>
+    <td align="center">
+      <strong>微信支付</strong><br />
+      <img src="assets/wechat-pay.jpg" alt="微信支付收款碼" width="260" />
+    </td>
+  </tr>
+</table>
 
 > 感謝支持，支付時可備註聯絡方式或需求，方便後續跟進。
 
